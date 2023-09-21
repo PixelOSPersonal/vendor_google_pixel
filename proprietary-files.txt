@@ -23,7 +23,7 @@ product/fonts/GoogleSansFlex-Regular.ttf
 product/priv-app/SettingsIntelligenceGooglePrebuilt/SettingsIntelligenceGooglePrebuilt.apk;OVERRIDES=SettingsIntelligence;PRESIGNED
 
 # Launcher
--system_ext/priv-app/NexusLauncherRelease/NexusLauncherRelease.apk;apkOVERRIDES=Launcher3,Launcher3QuickStep,TrebuchetQuickStep;PRESIGNED
+-system_ext/priv-app/NexusLauncherRelease/NexusLauncherRelease.apk;PRESIGNED
 
 # Permissions
 product/etc/permissions/privapp-permissions-google-p.xml
