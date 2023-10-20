@@ -16,7 +16,7 @@
 $(call inherit-product, vendor/google/pixel/pixel-vendor.mk)
 
 # Bootanimation
-include vendor/google/pixel/bootanimation/bootanimation.mk
+include vendor/auroraui/config/bootanimation.mk
 
 # Fonts
 include vendor/google/pixel/fonts/fonts.mk
